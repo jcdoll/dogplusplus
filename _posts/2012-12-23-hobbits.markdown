@@ -1,0 +1,13 @@
+---
+title: Hobbits
+layout: post
+author: jcdoll
+tags:
+- random
+---
+
+I saw Peter Jackson's The Hobbit last weekend and thought that it compared very favorably with the 1977 cartoon version that is so near and dear to my heart. Along those lines, here's the 1978 Lord of the Rings.
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4t7KSarpfFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>

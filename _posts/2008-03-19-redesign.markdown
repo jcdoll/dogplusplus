@@ -1,0 +1,7 @@
+---
+title: Website redesign
+tags:
+- web-design
+---
+
+After a bit of work the past few days, we turned on the new version of the website today. Hopefully most of the kinks are worked out but there may be some link weirdness. I made sure to modify the URL rewrite rules to keep the very few external links working, but if you find something broken let me know.

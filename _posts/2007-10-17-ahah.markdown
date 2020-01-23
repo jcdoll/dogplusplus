@@ -1,0 +1,16 @@
+---
+title: Ahah!
+layout: post
+author: jcdoll
+tags:
+- blog
+- science
+---
+
+Sometimes lots of little pieces of knowledge just click. I was doing my Cell Mechanics homework this morning and reading about dynamic instability in microtubules. Microtubules are polymer tubes assembled out of lots of individual proteins, called subunits, which form the backbone of biological cells and are required for cell division amongst other things). It mentioned the drug [taxol](http://en.wikipedia.org/wiki/Paclitaxel) which binds to the tubulin subunits and prevents microtubules from breaking down. This interrupts cell division which is why taxol is used to treat cancer.
+
+I mentioned this to [Bex](http://microsystems.stanford.edu/~rebeccat) who coincidentally had read an article in the NYTimes recently about the discovery of taxol in the forests of the Pacific Northwest. You should check it out [here](http://query.nytimes.com/gst/fullpage.html?res=9B07E7DC113CF93AA35753C1A9619C8B63&sec=&spon=&partner=permalink&exprod=permalink).
+
+Where it gets really interesting is that my research is on how neurons translate mechanical force into electrical signals, which can be processed by your brain. One of the motivations for the work is that people on chemotherapy often lose touch sensation in their extremities. I hadn't ever thought about it in depth before, but then the light bulb went off.
+
+Special neurons in your body have proteins on their surface that allow sodium (like in table salt) to pass into and out of the cell whenever a force is applied to them. The movement of the sodium ions leads to an electrical signal being transmitted to your brain, alerting it of the force. These proteins (called ion channels) attach to microtubules inside of the cell. So when taxol modifies the network of the microtubules in your cells it either stop the ion channel from binding to it (through another tether protein) or the mechanical properties of the network change, altering the sensitivity of mechanotransduction for example. Awesome.

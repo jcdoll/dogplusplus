@@ -1,0 +1,66 @@
+---
+title: Fish are Friends
+layout: post
+author: jcdoll
+tags:
+- food
+- vegetarian
+---
+
+I grew up eating meat. Chicken teriyaki, sloppy joes, and meat lasagna were staples at the dinner table. The summer after high school I worked in the meat department at the local grocery store, and had never thought about what it all meant. But last year, after finally seeing the elephant in the room and taking an objective look at things, I stopped eating meat. My intention here is to share some of the thoughts that led to that decision, if not so that you'll take a moment to reconsider things too, then just to provide a more substantive answer than I normally give.
+
+If I had to pick the first domino, it would be the free cholesterol test at work in the summer of 2007. Actually, it would be the research burn out that made me take the summer away from school. The results from the test were bad; total cholesterol was about 300 mg/dl (200 is normal). There are plenty of open questions about the exact role of cholesterol in cardiovascular disease, but high levels are a very bad thing. So I cut back my meat intake to normal levels instead of it being the first three floors of the pyramid, but six months later the levels were still high. So I decided to become quasi-vegetarian in the _I'll still eat fish because they're good for you, right?_ kind of way.
+
+Things were going well, and not eating (most) meat was easy: don't buy it at the grocery store and mostly cook at home. But things changed on a backpacking trip in August of 2008. These are the notes that I wrote that day after seeing the other guys on the trip fishing.
+
+[shashin type="photo" id="2217" size="large" columns="max" order="user" position="center"]
+
+<blockquote>
+All carnivorous organisms do it; eat one another for a meal. But when an equally nutritious substitute is available (i.e. plants), then you are killing the animal purely for pleasure (e.g. joy in the act, taste of the food). Doug and my dad  were fishing today at Little Five Lakes. Doug had caught three fish already when he asked if I wanted a go. At first I agreed; fishing is fun. But as I was reaching for the pole, I saw the three fish on a rope that he had caught, suffocating to death on the bank, and I decided that I just couldn't do it in good conscious, and went back to reading.
+
+Just moments earlier, the fish had been swimming in the lake looking for their next meal. As they swallowed the bait, the sharp metal tore into their lips and they struggled against the line as they were pulled out of their home. Catch and release would be injuring the fish for fun and reducing its chance to survive, so could be considered worse in a few ways.
+
+Why had I changed my mind? I used to eat meat with almost every meal. Then I found out that I had high cholesterol and blood pressure (at age 23), and decided to stop eating all meat except for fish. This contributed, but didn't explain the disgust at eating fish.
+
+The other thing was having pets, especially when they began to have health problems. The potential death of a pet was horrible. Why didn't the actual death of another living animal cause me to even think twice?
+
+It's an important psychological barrier that has probably been built up over a very long time to aid survival, but when hunting was not a sport but necessary. Division of labor also helped.
+
+I'm generally against forcing a set of values on an someone else for many reasons. But a useful measure of whether or not you should eat meat would be: would you hunt and kill the animal with your own hands? Would you really pull the trigger, shoot a cow in the head and watch it die and hear its moans in order to eat that hamburger? Why wouldn't you do that to a stray dog or cat?
+
+So eating meat is a bad thing from a moral perspective as well as in terms of sustainability, but I think that any time you are increasing demand for meat it is a bad thing because you are supporting prices and making it profitable in the short term. In the long term, it's all you can do; vote with your dollars. Or is it? You are just one person, and the more important thing to do would be to bring awareness to the problem and vote with your voice.
+
+What about when the food has already been purchased e.g. someone else planned meals for a backpacking trip?). The net consumption will be constant no matter what you do, and then it is reduced to an issue of health, advocacy and consistency. Or is it?
+
+My views on meat have been changing a lot lately, and the consumption of meat has become increasingly difficult to justify.
+</blockquote>
+
+The main point from that trip was of **alternatives**. In this particular case, we were on a backpacking trip with plenty of food to last until we got back. But instead of eating what we had brought, we had killed a half dozen fish for pleasure. But that is what predators do, right? Yes, but a pack of lions doesn't have a vegetable garden, and hunts in order to struggle to survive rather than than choosing something that would pair nicely with a wine.
+
+Coming back to fish, there are a few lines of argument one could take to justify killing and eating them. But it is undeniable that the fish feels pain and suffers as it dies, or put another way, pain is the feedback mechanism to make the fish rather be alive than dead in order to live long enough to reproduce. Next, causing unnecessary suffering isn't justifiable and a fairly integral part of Western society (but not [all societies](http://en.wikipedia.org/wiki/Honor_killing)) most of the time. For example, if you came across a child torturing a cat you would stop it. But how is the pleasure derived from fishing when you don't need the food any more justifiable than killing an animal to watch it struggle and die, only considering the immediate act?
+
+Putting this together, if we agreed earlier that eating the fish isn't necessary for our own survival due to the food alternatives available, and we should strive to minimize unnecessary suffering caused to living things, then it seems reasonable to reconsider fishing. Things become complicated in many other cases; take biomedical research using animals, which I'm involved in, and everything becomes a whole lot more complicated. But in the simplest case of whether to eat a fish or an apple, where the apple is trying to be as delicious as possible so that you'll eat it in constrast with the fish, everything is pushing in one direction. Of course, this all ties back into whether or not you have an anthropocentric view of things. Are humans a special case? That's what it comes down to in many ways, and if you believe in unprovable things like miracles and the afterlife then you are probably not going to be convinced. But in time things are going to change; consider the changing attitudes of racism and sexism in the past hundred years, and when you realize that everything has feelings it's just a matter of time.
+
+![](https://lh3.googleusercontent.com/-Js-NmXuTQnw/TwKL31qBfsI/AAAAAAAAA_E/RmvpaY7NqL8/s800/2451485353_550443d1a2_z.jpg)
+
+But, how is eating a plant justifiable while eating an animal is not? Or in the realm of animals, how is eating yeast or broccoli any better than eating a cow? One argument would be that if you're willing to eat some animals, why just stick to cultural norms and not cats and babies? But the way that I think about it is: we need food to survive, and as long as there are alternatives that cause less suffering for everyone involved and are beneficial for a whole host of reasons, shouldn't we take them?
+
+The other realization from the backpacking trip was that if we didn't have the horrible efficiency of meat production on a massive scale we would eat a whole lot less of it, partly because it would be more difficult to strip the identify from that piece of meat (e.g. Wilbur doesn't get saved from the butcher this time) and there just wouldn't be enough time in the day for all of that killing. The sheer speed of the current process is impressive: 8.4 billion chickens were slaughtered in [2000 in the US](http://www.upc-online.org/slaughter/2000slaughter_stats.html) alone. Put another way, that's about 1 million chickens per hour, or 2100 times as many [cats and dogs are euthanized](http://www.hsus.org/pets/issues_affecting_our_pets/pet_overpopulation_and_ownership_statistics/hsus_pet_overpopulation_estimates.html) every year, making the arbitrary value that we place upon the lives of other living things is clear. There is of course the question of what is suffering; is it pain, the unlived life, or the feelings of loss in others? But if you just think about what you'd want done to yourself, things are pretty simple.
+
+Finally, besides the abstract talk about alternatives and vegetable gardens, there are plenty of more concrete reasons to skip meat.
+
+**Cruelty:** Our treatment of farm animals is disgusting. Even if you don't agree with anything else here, you should watch [both](http://video.hsus.org/index.jsp?fr_story=288daabae8e07c65375ded8a65c72d79b19d0e13) of these [videos](http://www.meat.org) in order to make an informed decision. The issue of humane treatment is discussed in much more detail in a  fantastic book called _[Farm Sanctuary](http://www.amazon.com/Farm-Sanctuary-Changing-Hearts-Animals/dp/0743291581)_ by Gene Baur.
+
+**Health:** The consumption of animal products is associated with cancer and cardiovascular disease. In fact, the health care cost associated with eating meat is comparable to the cost associated with [smoking](http://query.nytimes.com/gst/fullpage.html?res=9B07E1DC1339F932A15752C1A963958260). Vegetarians are about 40% less likely to develop all types of cancer than meat eaters and are three times less likely to develop colon [cancer](http://www.cancerproject.org/survival/cancer_facts/meat.php). And that is using vegetarian in the post-1940 [use of the term](http://en.wikipedia.org/wiki/Vegan), which includes other animal products like milk, eggs and cheese. Repeated, recent studies have shown that eating meat raises your overall risk of an [early death](http://www.washingtonpost.com/wp-dyn/content/article/2009/03/23/AR2009032301626.html?hpid=topnews) (thanks Ameet). You don't need to eat meat in order to consume enough protein, B-12, or to stop your hair from falling out; vegetables have got your back.
+
+**Environment:** Animals need food, it's a little known fact! In fact, 90% of the soy crop, 80% of the corn crop and 70% of all grain produced in the US is consumed by livestock according to the [USDA](http://www.ers.usda.gov/publications/sb973/sb973.pdf). There are plenty of other huge problems, like polluting our water supply, [none of them good](http://en.wikipedia.org/wiki/Environmental_effects_of_meat_production). Not eating meat is one of the most effective things that you can do to minimize your carbon [footprint](http://www.canada.com/vancouversun/news/editorial/story.html?id=bd9a94b6-4215-435e-b5b1-ac719c4bfd40). Not eating meat is a small, concrete action that you can take the next time you feel helpless about any number of things that you can't do anything about.
+
+**Budget:** Even disregarding the long-term costs associated with raising livestock, the inefficiency of eating plants indirectly through meat makes it more [expensive](http://www.vegetarianweek.com.au/BenefitsofaVegetarianDiet/Cost-Benefits.aspx) despite the billions of dollars of government subsidies which support the production of meat and distort the market.
+
+What's a little bit funny about all of this is that it didn't cross my mind while in Berkeley living in a co-op. And it wasn't anything that I've read; I actually need to pick up a few books about ethics the next time I'm at the library out of curiosity. But in the meantime, the way that my Mom used to always put spiders outside rather than squash them seems a lot less crazy now; think about the asymmetry of the situation next time and how you would like to be treated were the roles reversed.
+
+The case of eating mass produced meat is overwhelmingly one sided and there's just nothing good that can be said about it. If you made it all the way down here, hopefully this makes you pause for a moment the next time you are faced with the choice of what to eat.
+
+[shashin type="photo" id="1458" size="large" columns="max" order="user" position="center"]
+
+**Further reading:** Somewhat surprisingly, Gourmet Magazine has a few interesting articles about the way that we treat the animals that we eat. Here are articles on [chicken](http://www.gourmet.com/magazine/2000s/2007/06/aviewtoakill), kobe beef, which is basically[ a more evil version of veal](http://www.gourmet.com/magazine/2000s/2007/12/kobe_beef_estabrook) and that the stories about beer and massages are double-speak, and a piece by David Foster Wallace about the [lobster](http://www.gourmet.com/magazine/2000s/2004/08/consider_the_lobster). I already mentioned _Farm Sanctuary_, but another book that mainly deals with the effect of food on your health is _[In Defense of Food](http://www.amazon.com/Defense-Food-Eaters-Manifesto/dp/1594201455)_ by Michael Pollan. A highly recommended cooking book is [Veganomicon](http://www.amazon.com/Veganomicon-Ultimate-Isa-Chandra-Moskowitz/dp/156924264X).

@@ -1,0 +1,18 @@
+---
+author: jcdoll
+comments: true
+date: 2008-07-13 05:06:44+00:00
+layout: post
+link: http://dogplusplus.com/2008/07/13/oh-irony/
+slug: oh-irony
+title: Oh Irony
+wordpress_id: 343
+categories:
+- science
+tags:
+- publishing
+- research
+- science
+---
+
+Don't you love how there have been tons of recent papers and commentaries on opening up scientific publishing to make it freely accessible, but they all end up in Nature or Science rather than going to [PLoS](http://www.plos.org/) to, you know, practice what they preach? [Impact factor](http://medicine.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pmed.0030291&ct=1) is the usual excuse, but there's plenty of [criticism](http://www.plos.org/cms/node/28) for it and it's a nice positive feedback loop. Given the fact that publishing companies aren't necessary to find peer reviewers anymore (as they were, say 15 years ago), and electronic distribution is cheaper and faster than paper, their only value is based upon their current, unstable position in the publishing process. I'd wager that things will change dramatically in the next five years.

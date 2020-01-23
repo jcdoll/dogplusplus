@@ -1,0 +1,13 @@
+---
+title: Papers
+layout: post
+author: jcdoll
+tags:
+- blog
+---
+
+I've started using [Papers](http://mekentosj.com/papers/) to complement EndNote for keeping track of research papers that I've read. Think iPhoto for papers. In the past I've manually named papers that I've downloaded and tried to file them away. Except folders aren't very good metadata containers, because a paper will often need multiple tags. Papers handles all of the metadata for you and stores the files away on your disk. It has a built-in fulls screen view and uses PubMed to lookup random PDF files that you give it.
+
+Why not just use EndNote? Its interface, file management and metadata capabilities are like a blast from the past circa MacOS 9. The programmers have probably been too busy rolling around in their money to actually make it decent.
+
+Papers still needs some work though. It can't export to Word, which is why I still use both Papers and EndNote. It would be nice if it automatically pulled the paper title and looked it up in PubMed for you for identification. Speaking of which, they should hook it up with something like Google Scholar that is used by everyone. PubMed is pretty broad but definitely isn't used by the math and physics people.  So Papers shows some promise and I'm using it for about 75% of my needs right now so stay tuned.

@@ -1,0 +1,19 @@
+---
+title: How to write your will
+layout: post
+author: jcdoll
+tags:
+- blog
+---
+
+My company recently started this financial education push at work. They are offering classes, reading materials and we also got access to some will making software. My finances are fairly well organized, but I hadn't ever thought about making a will. It didn't seem like it would hurt though so I decided to give it a shot.
+
+After a bunch of reading online I ended up with two documents. One is called a Living Will and is really easy to make at [doyourproxy.org](http://doyourproxy.org). It applies while you are still alive, hence the name. You basically choose from several sets of radio buttons about what you want to happen when you are no longer able to make your own medical decisions. Things like, if you are in a coma with no hope of coming out, do you want life support to be stopped or continue? Or, do you have a problem with artificial feeding? It took some hard thinking for me to figure out my own answers, but I feel more confident that my family members will know what I believe and their choices will be easier to make. (In the end, I really think that wills are for the benefit of your family - not yourself)
+
+I made my actual Will using some [software by Suze Orman](http://www.suzeorman.com/igsbase/igstemplate.cfm?SRC=MD002a&SRCN=catalogdetail&ProductID=20&StartRow=1&GnavID=10&SnavID=48&TnavID=) that I got through work. It was sightly painful to use, but only costs about $15, which is much cheaper than a lawyer. I don't think you could use it for very complicated wills but I was able to set up two in about an hour (Joey and I have separate ones because joint wills can be very problematic. A joint will can't be changed after one person dies - no matter how out of date it gets.) The main point of the will is to name an executor, and to leave your tangible property (possessions without a title) and the residue of your estate (all money, houses, other titled objects) to someone.
+
+The executor will carry out your will and has to go through all of your stuff and get it to the right people or places. So you want someone who can handle all of that work and that you trust. Trust is important because you can include additional notes with your will that tell your executor what kind of funeral services you like and can call out specific property you want left to people. The benefit of this "Final Instructions" document is that can be updated frequently and easily because it doesn't need to be signed - it isn't really a legal document, you are just asking your executor to take care of some things for you in the way you wish. For now, I chose my Mom. I know I can trust her to give our cats and dog to the right people and carry out my funeral services in the way I wish.
+
+The whole process took about a day of thinking, researching, and deciding. Once we figured out what we wanted the wills to say it was pretty easy to execute using the two web apps. After generating the documents we printed one hard copy because they need some signatures. The Living Will needs to be signed by two people who are unrelated to you (we used our neighbors) and your Will also needs two signatures, but they can be related. Neither document needs to be notarized (at least in CA) - which I didn't want to have to deal with. After getting the signatures, I scanned everything back in and sent electronic copies to a couple of people for safe keeping. And most importantly, I sent a hard copy to my executor so that if the time came, they would be able to act.
+
+For a day of work I think I probably saved my family weeks of painful decision making. So, even though I usually try to pretend death doesn't exist, I think the one day was worth it.

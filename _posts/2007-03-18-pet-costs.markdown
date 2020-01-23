@@ -1,0 +1,81 @@
+---
+title: Pet costs
+layout: post
+author: jcdoll
+tags:
+- cats
+---
+
+#### Flea Medicine
+
+The flea medicine business is kind've funny. Medicine for your 10 pound cat costs as much as for your 150 pound wildabeast even though the only difference is the volume of the dose. Here's the info on Frontline plus for the dog medicine.
+<table cellpadding="5" style="border: 1px solid #000000" >
+<tr >
+
+<td >Pet Weight (lbs)
+</td>
+
+<td >Recommended Dose (ml)
+</td>
+
+<td >Price for 6 doses
+</td>
+</tr>
+<tr >
+
+<td align="center" valign="middle" >0-22
+</td>
+
+<td align="center" valign="middle" >0.67
+</td>
+
+<td align="center" valign="middle" >62.99
+</td>
+</tr>
+<tr >
+
+<td align="center" valign="middle" >23-44
+</td>
+
+<td align="center" valign="middle" >1.34
+</td>
+
+<td align="center" valign="middle" >67.95
+</td>
+</tr>
+<tr >
+
+<td align="center" valign="middle" >45-88
+</td>
+
+<td align="center" valign="middle" >2.68
+</td>
+
+<td align="center" valign="middle" >63.95
+</td>
+</tr>
+<tr >
+
+<td align="center" valign="middle" >89-132
+</td>
+
+<td align="center" valign="middle" >4.52
+</td>
+
+<td align="center" valign="middle" >73.95
+</td>
+</tr>
+</table>
+So what we do is buy the big dog dose, transfer it to a small glass bottle and store it in the fridge. When it's time to give the cats their medicine we use a syringe (no needle!) to dispense the medicine. For two cats at 0.5 ml per dose, 4.5 ml will last 5 months, so you're talking about $1 per dose rather than $10 per dose.
+
+#### Costs/Reviews
+
+Our cat sherlock had an endoscopy to remove a needle that he swallowed. It was performed in Capitola, CA at [Pacific Veterinary Specialists Emergency Services](http://www.pvses.com/) on a Saturday night and cost about $1000.
+
+In July 2007 Sherlock started having trouble urinating and we saw that he had blood in his urine. We took him to [Adobe Pet Hospital](http://www.adobe-animal.com/) because they were nearby and had drop-in appointments. They had to insert a catheter and kept him for two nights. The overall cost was about $1300. Overall it was pretty poor service and it didn't seem like the veterinarians or staff cared about how our cat did. It was in stark contrast with our previous encounter at PVES (see above). I wouldn't go there again.
+
+Later in July, Sherlock had serious trouble going to the bathroom again. They weren't able to get the catheter in because it was so clogged, so he ended up going into surgery (perineal urethrostomy) to open up his urethra. The surgery went great and he has been doing really well since. It was expensive, but it worked out to be close to the same cost of the prior hospital stays when he had to have a catheter (~$3000) and the fact that he can go to the bathroom is infinitely worth it.
+
+#### Doggy Daycare
+
+We take Lola (our dog) to Klub K9 Pet Center in Sunnyvale and highly recommend it. It's a little over $20/day if you buy a 20-pack, otherwise it's about $40 per day. Their staff is great, they have four huge play areas for the dogs, and they do cage-free boarding.

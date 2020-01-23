@@ -1,0 +1,16 @@
+---
+title: Set Phasers to Org-Mode
+layout: post
+author: jcdoll
+tags:
+- getting things done
+- linux
+---
+
+I've tried to keep track of my thoughts and todo items many different ways in the past 3 years or so. I tried to use a single text file, but it grew too bulky and there was no way to slice the data across projects, contexts, or todo items. The same problem cropped up with a hand written list; there was simply too much stuff to keep track of and the notes would always end up in the washer. Next, I had a series of flings with web applications: [Gubb](http://gubb.net), [Todoist](http://todoist.com), [Remember the Milk](http://rememberthemilk.com) and [Tracks](http://tracks.tra.in). A common problem with these was that they were too slow; I inevitably would have a separate list or text file that I ended up falling back on. I tried desktop applications; [iGTD](http://bargiel.home.pl/) and [Things](http://culturedcode.com/things/), but they felt like contrived systems rather than a real way to plan and keep track of things. If any type of system takes too much of my time to manage, it's turning into a hobby rather than a tool. I ended up settling on [Evernote](http://www.evernote.com) for about a year, which made me feel slightly more organized than a text file, but only so slightly.
+
+The other day I was taking a fresh look at the problem. Somehow I came across [org-mode](http://orgmode.org/). I watched a [Google Tech Talk](http://orgmode.org/GoogleTech.html) on the subject and immediately hated it. I mean, it's based upon [emacs](http://www.gnu.org/software/emacs/), and the scars of using non-X11 versions and being unable to click anywhere are seared into my brain. And how would I handle images!? I immediately installed Wine and went back to Evernote. Harumph.
+
+But then some of the tech talk started slipping back into my brain. Org-mode seemed like a way to tame the text file beast and ride it off into the sunset. I installed the latest version of emacs using the magic of Linux and apt-get, and I realized that emacs is pretty sexy actually. And org-mode is centered around bulleted lists, which I always find myself using anyway (along with parentheses, of course). It was starting to make some sense. So I gave it a shot and two weeks later my life is stored in two text files along with the magic of org-mode. I have no idea how long they are, probably 1000 lines each, but it doesn't matter. I can combine long winded notes about my latest fabrication process with that thing that I have to do on it next week, fold everything back up, and then keep easy tabs on everything using the agenda view. It's like an outlining tool, except it's so good that you might as well keep going and outline everything. I would recommend using [clean view](http://www.gnu.org/software/emacs/manual/html_node/org/Clean-view.html) though.
+
+Org-mode is one of those things that can't appreciate until you've given it a chance. And there is definitely an initial bump to get over (like the insane zombie unicorn logo, although it could just look like that because I've been playing too much Left 4 Dead lately). So give it a chance, I don't think that you'll regret it; moving bullet points up and down like butter is a thing of beauty.

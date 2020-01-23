@@ -1,0 +1,19 @@
+---
+title: One down
+layout: post
+author: jcdoll
+tags:
+- writing
+---
+
+I received a box of books today. My project from the last few years is a real thing. You can find it in a [few](http://www.walmart.com/ip/28821124) [places](https://www.google.com/search?q=piezoresistor+book) on the [internets](http://www.springer.com/engineering/electronics/book/978-1-4614-8516-2).
+
+And if you're in a rush to get your daily dose of Hooge factor goodness you can even [prime](http://www.amazon.com/Piezoresistor-Design-Applications-Microsystems-Nanosystems/dp/1461485169) it. The magic of publishers.
+
+What have I learned?
+1) The [pi rule](http://strom.wordpress.com/2008/03/26/multiply-by-pi/) applies to writing books.
+2) Automatically generating pretty EPS figures in Matlab saved countless hours.
+3) The same goes for LaTeX. Using anything else would be insane.
+4) In the end, it just takes a coffee habit and [Ratatat](http://en.wikipedia.org/wiki/Ratatat) on loop.
+
+![](https://lh5.googleusercontent.com/-bY3iw6ElVQw/UnswRsAJKZI/AAAAAAAAovk/Ru7aJkXe__M/s800/cover.jpg)

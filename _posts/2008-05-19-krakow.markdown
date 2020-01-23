@@ -1,0 +1,16 @@
+---
+title: Krakow
+layout: post
+author: jcdoll
+tags:
+- travel
+- krakow
+- photos
+- poland
+---
+
+I've posted some of the pictures from [Krakow](http://picasaweb.com/jcdoll). Here are a couple of my favorites. I used to only be able to do HDR on my 350D, but since putting [CHDK](http://chdk.wikia.com/wiki/Main_Page) on my compact camera I've been able to do exposure bracketing and have been playing with HDR quite a bit. I've also been doing a better job at adding the GPS coordinates (using [Google Earth and Geotagger](http://craig.stanton.net.nz/software/Geotagger.html)), so you can see where they were taken on a map.
+
+[View Larger Map](http://maps.google.com/maps?f=d&hl=en&geocode=&saddr=Zurich,+Switzerland&daddr=Krak%C3%B3w,+Poland&sll=47.40865,8.508809&sspn=0.013796,0.040684&ie=UTF8&t=p&ll=49.32184,14.244335&spn=10.029162,18.676758&z=5&source=embed)
+
+[shashin type="photo" id="1669,1680" size="large" columns="max" order="user" position="center"]
