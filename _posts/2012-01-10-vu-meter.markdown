@@ -1,9 +1,0 @@
----
-title: VU meter
-layout: post
-author: cassie
-tags:
-- science
----
-
-My amazing 17 year old brother made this [vu meter](http://en.wikipedia.org/wiki/VU_meter) from scratch. I'm ten years older and actually have an EE degree (who knew?) and could never do anything like this. Go Alex!

@@ -1,7 +1,7 @@
 ---
 title: Handkerchiefs aren't just for old men
 layout: post
-author: cassie
+author: jcdoll
 tags:
 - blog
 ---

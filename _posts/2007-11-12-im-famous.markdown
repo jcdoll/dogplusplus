@@ -1,9 +1,0 @@
----
-title: I'm famous!
-layout: post
-author: cassie
-tags:
-- blog
----
-
-Not really... but I did get to write a Google [blog post](http://opensocialapis.blogspot.com/2007/11/early-container-sample-available.html). Can you tell which parts were rewritten by legal and pr?
