@@ -18,18 +18,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+url: "http://dogplusplus.com"
+
 title: dog++
-name: Joey Doll
+author: Joey Doll
 email: jcdoll@gmail.com
-url: "http://dogplusplus.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: jcdoll
+description: A random collection of life updates and sometimes useful information.
+show_excerpts: false
+
 flickr_username: dogplusplus
 instagram_username: dogplusplus
+github_username: jcdoll
+linkedin_username: jcdoll
+
+google_analytics: UA-156887789-1
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.

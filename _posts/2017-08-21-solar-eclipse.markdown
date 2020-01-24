@@ -1,10 +1,10 @@
 ---
-title: Solar Eclipse
+title: Solar eclipse
 layout: post
 author: jcdoll
 ---
 
-First off - we moved to Bend. We [liked it](http://dogplusplus.com/2016/11/22/labor-day-in-bend/) a little too much. I've been using [Instagram ](https://www.instagram.com/dogplusplus/)to document things.
+First off - we moved to Bend. We [liked it]({% post_url 2016-11-22-labor-day-in-bend %}) a little too much.
 
 Second - here are some photos from the total solar eclipse this morning. Bend was outside the zone of totality, so we drove about 20 miles north and then rode our mountain bikes another 7 miles, staying off the freeway to avoid traffic. We randomly stumbled upon a rocky bluff, which provided a nice view with Smith Rock State Park as a backdrop.
 
