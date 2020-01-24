@@ -1,0 +1,15 @@
+---
+title: Site migration
+layout: post
+author: jcdoll
+---
+
+After running this site on Dreamhost and Wordpress for many years, I grew tired of the cost (~$120/yr) and complexity (Wordpress vulnerabilities, dependencies, database backend) that came with it.
+
+I considered shutting the whole thing down, but then realized that this site has survived for almost 20 years and through four different incarnations (Go Banana, The Lost Cost, Guys Like Dolls, Dog++) so it wasn't going to die today if I could help it.
+
+So I began looking for free and simple hosting solutions. After some research, I came across [Github Pages](https://pages.github.com/). I already use it for my [resume](http://jcdoll.github.io), but I learned that [Jekyll](https://jekyllrb.com/) is supported as well. Jekyll is a nice lightweight framework for simple websites that keeps all content in plain text files - great for portability when this solution breaks down the road.
+
+The net result is a free hosting solution (Github) based on a collection of text files (Jekyll). No vulnerabilities to deal with, no database migrations or updates, and no ongoing cost to keep stuff on the internet.
+
+After [migrating](https://github.com/thomasf/exitwp) the website contents from Wordpress to Jekyll, I just had to point my DNS servers at Github and it was all set. 
